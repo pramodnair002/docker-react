@@ -7,3 +7,5 @@ before_install:
 
 script:
   - docker run -e CI=true pramod002/docker-react npm run test
+
+# commented
